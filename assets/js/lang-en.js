@@ -14,7 +14,7 @@ window.UNIPOP_EN = {
   "k8": "Closes · Into the kitchen",                                 // Clôture · À vos fourneaux
   "k9": "UniPop NORD · Ettelbruck",                                  // UniPop NORD · Ettelbruck
   "k10": "The 2026 season",                                           // La saison 2026
-  "k11": "Two calls, one open day, one new site. The marker moves on its own.", // Deux appels, une journée porte ouverte, un nouveau site. Le r…
+  "k11": "Two calls, one open day, one new site.",                    // Deux appels, une journée porte ouverte, un nouveau site. Le r…
   "k12": "Dudelange — starting with the kitchen",                     // Dudelange — on commence par la cuisine
   "k13": "Lycée Nic Biever, 28 rue du Parc. A fully equipped teaching kitchen will be the first space opened on the site. Rooms available Mondays and Wednesdays from 5 p.m.", // Lycée Nic Biever, 28 rue du Parc. Une cuisine pédagogique ent…
   "k14": "Ettelbruck — UniPop NORD takes shape",                      // Ettelbruck — UniPop NORD prend forme
@@ -62,7 +62,7 @@ window.UNIPOP_EN = {
   "k56": "The aim is not to hand you a ready-made syllabus, but to build parts of the programme together.", // L’objectif n’est pas de vous imposer un contenu prédéfini, ma…
   "k57": "03 — Open now",                                             // 03 — Ouverts maintenant
   "k58": "Two calls, two worlds.",                                    // Deux appels, deux univers.
-  "k59": "Interactive PDF form · one page is enough.",                // Formulaire PDF interactif · une page suffit.
+  "k59": "Interactive PDF form.",                                     // Formulaire PDF interactif · une page suffit.
   "k60": "04 — Selection & development",                              // 04 — Sélection & développement
   "k61": "From idea to UniPop programme.",                            // De l’idée au programme UniPop.
   "k62": "You propose",                                               // Vous proposez
