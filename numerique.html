@@ -101,6 +101,7 @@
       <div class="date__text">
         <h3 data-i18n="k195">UniPop est invitée à la foire de l’Observatoire de l’enfance, de la jeunesse et de la qualité scolaire.</h3>
         <p data-i18n="k196">L’occasion de rencontrer directement le public concerné — qui pourra ensuite approfondir ces sujets dans les cours UniPop.</p>
+        <p class="date__meta" data-i18n-html="date.venue" style="margin-top:12px">Lieu&nbsp;: Forum Geesseknäppchen · <a href="https://www.oejqs.lu/fr/journee-observatoire-360-fr/" target="_blank" rel="noopener" style="text-decoration:underline;text-underline-offset:3px">Lien OEJQS</a></p>
       </div>
     </div>
   </div>
@@ -296,6 +297,14 @@
 </footer>
 <div class="wipe" aria-hidden="true"></div>
 <script src="assets/js/lang-en.js"></script>
+<script>
+/* Texte propre à cette page : lieu et lien OEJQS.
+   Chargé après lang-en.js et avant i18n.js, pour ajouter une clé au
+   dictionnaire anglais sans toucher au fichier commun. */
+window.UNIPOP_EN = Object.assign(window.UNIPOP_EN || {}, {
+  "date.venue": "Venue: Forum Geesseknäppchen · <a href='https://www.oejqs.lu/en/journee-observatoire-360-en/' target='_blank' rel='noopener' style='text-decoration:underline;text-underline-offset:3px'>OEJQS link</a>"
+});
+</script>
 <script src="assets/js/i18n.js"></script>
 <script src="assets/js/site.js"></script>
 </body>
